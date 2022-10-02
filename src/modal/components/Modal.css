@@ -26,6 +26,7 @@
     position: absolute;
     bottom: 0;
     width: 30vw;
+    min-width: 350px;
     border-radius: 10px;
     background-color: #fff;
     transition: all 0.3s linear;
@@ -49,6 +50,7 @@
 
   .button {
     width: 10vw;
+    min-width: 200px;
     height: 2rem;
     color: white;
     border-radius: 3px;
